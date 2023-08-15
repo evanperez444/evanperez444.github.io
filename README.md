@@ -1,4 +1,4 @@
-#Evan Alejandro Perez
+# Evan Alejandro Perez
 _____________________________________________________________
 
 ##Education
@@ -19,7 +19,6 @@ _____________________________________________________________
 #IQSpatial / Feature Extraction Intern / June 2023 - Present / New York, NY
 - Developed a feature extraction pipeline using the YOLO framework and Python which allowed users to
 preprocess 1000+ commercial satellite images, train and test a custom machine learning model on annotated datasets, and detect objects in new imagery while recording object names and geospatial coordinates into a CSV file. Achieved 84% prediction accuracy with a custom model that was built using the pipeline
-
 -Worked closely with a teammate to ensure that the model pipeline’s CSV output was compatible with the teammate's API pipeline so that the combined workflow solution could be deployed for commercial use
 
 
@@ -27,7 +26,6 @@ preprocess 1000+ commercial satellite images, train and test a custom machine le
 - Reduced geospatial data preprocessing time by 90% by developing a command line prompt tool using
 Python that enabled the automated mass conversion of 1000+ CSV files into the appropriate GEOJSON
 format. Verified the tool’s functionality in QGIS by overlaying the output with SAR satellite imagery
-
 -Procured machine learning model performance insights by retraining a classification model over newly
 converted and existing data. Discovered that K-Fold Cross Validation could improve accuracy to 70% by
 iterating over the same data set, but “folding” parts of it into testing and training sets to ensure data variety
@@ -37,7 +35,6 @@ iterating over the same data set, but “folding” parts of it into testing and
 #Gamco Corporation / Computer Systems Analyst / January 2022 - April 2022 / Queens, NY
 - Reduced cycle inventory count from 2 months to 2 weeks by developing a digital inventory counting
 solution using Google Sheets and built-in functions while working closely with the inventory manager and shopfloor workers to understand and tailor the solution to their needs. Replaced the manual counting method with the digital solution and deployed it during a cycle count to ensure functionality
-
 - Contributed to the procurement of a $250,000 Enterprise Resource Planning system by conducting screenings with software engineers from numerous firms, evaluating software functionality and cost benefits based on Gamco’s departmental requirements and challenges
 
 ##Supporting Experience
