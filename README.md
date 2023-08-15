@@ -8,12 +8,12 @@
 GPA: 3.4 / 4.0
 
 ## Skills
-
+---
 ### Programming: Python, C++, Java, HTML
 ### Technologies: Git/Github, Visual Studio Code, PyCharm, MATLAB, YOLO framework, Google Colab, Jupyter Notebooks, QGIS, Microsoft Office
 
 ## Technical Experience
-
+---
 ### IQSpatial / Feature Extraction Intern / June 2023 - Present / New York, NY
 
 - Developed a feature extraction pipeline using the YOLO framework and Python which allowed users to preprocess 1000+ commercial satellite images, train and test a custom machine learning model on annotated datasets, and detect objects in new imagery while recording object names and geospatial coordinates into a CSV file. Achieved 84% prediction accuracy with a custom model that was built using the pipeline.
@@ -30,7 +30,7 @@ GPA: 3.4 / 4.0
 - Contributed to the procurement of a $250,000 Enterprise Resource Planning system by conducting screenings with software engineers from numerous firms, evaluating software functionality and cost benefits based on Gamco’s departmental requirements and challenges.
 
 ## Supporting Experience
-
+---
 ### Autograf Carwash / Detail Specialist / December 2016 - August 2021 / Fort Smith, AR
 
 - Implemented new procedures for managing client purchases which led to optimized service by reducing the customer wait time by 10% and decreasing environmental impact caused by water usage.
