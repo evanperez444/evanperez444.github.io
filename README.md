@@ -5,7 +5,7 @@
 
 ### Computer Science Student at The City College of New York
 
-GPA: 3.4 / 4.0
+GPA: 3.3 / 4.0
 
 ## Skills
 ---
