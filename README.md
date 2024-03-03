@@ -29,26 +29,27 @@ New York, NY
 **Python Machine Learning Engineer Intern**  
 June 2023 – Present  
 
-- Developed a RAG-based LLM application to extract and organize financial data from text documents, reducing research time by 85%
-- Built an LLM output validation system using NLTK and integrated topic modeling and keyword extraction
-- Engineered a YOLO-driven machine-learning pipeline for object detection in satellite imagery, achieving 84% accuracy
-- Created an object detection website with CSS/JavaScript frontend and Python backend integrating YOLO framework
+- Developed a RAG-based LLM application that enables users to extract and organize financial data from text documents using LangChain and OpenAI API, reducing business intelligence research time by 85%
+- Built an LLM output validation system using NLTK, integrated topic modeling and keyword extraction
+- Engineered a YOLO-driven machine-learning pipeline that allows users to detect objects in satellite imagery, extract the geospatial coordinates of objects with GDAL, and record object data simultaneously
+- Deployed the ML pipeline in a hurricane disaster relief response and detected blue tarps with 84% accuracy 
+- Created an object detection website that allows users to run YOLO on their images. Used CSS/JavaScript for frontend interaction and image uploading while utilizing Python to integrate the YOLO framework
 
 ### Ursa Space Systems  
 Ithaca, NY  
 **NASA New York Space Grant - Data Science Intern**  
 May 2022 – August 2022  
 
-- Reduced geospatial data preprocessing time by 90% with a Python command line tool for CSV to GEOJSON conversion
-- Procured insights on machine learning model performance and discovered K-Fold Cross Validation improvements
+- Reduced geospatial data preprocessing time by 90% by developing a Python command line prompt tool that enabled the automated mass conversion of 1000+ CSV files from AWS into a GEOJSON format. Verified the tool’s functionality and calculations in QGIS by overlaying the output with SAR satellite imagery
+- Procured machine learning model performance insights by retraining a classification model over newly converted and existing data within EC2, discovered that K-Fold Cross Validation could improve accuracy
 
 ### Gamco Corporation  
 Queens, NY  
 **Computer Systems Analyst**  
 January 2022 – April 2022  
 
-- Reduced inventory counting time from 2 months to 2 weeks with an Excel-based digital solution
-- Screened software engineers and sales representatives for $250,000 ERP system purchase
+- Reduced inventory counting time from two months to two weeks by building an Excel-based digital solution. Collaborated with inventory managers and shop floor workers to customize the tool to their needs
+- Screened software engineers and sales representatives to determine the best Enterprise Resource Planning company from which to make a $250,000 cloud-based software purchase based on Gamco’s requirements
 
 ## SUPPORTING EXPERIENCE
 ### CUNY Tech Prep  
@@ -56,13 +57,14 @@ New York, NY
 **Data Science Fellow - Fraudulent Credit Card Transaction Detection**  
 July 2023 – Present  
 
-- Led a team to develop a fraudulent credit card transaction model achieving 97% accuracy
-- Preprocessed and configured a dataset of 6M+ samples and analyzed financial transaction data
+- Led a team of 3 in developing a fraudulent credit card transaction model and compared algorithms such as logistic regression and random forest. Achieved 97% detection accuracy with a neural network model
+- Preprocessed and configured a dataset of 6 million+ samples using Pandas, SMOTE, and MinMaxScaler
+- Analyzed financial transaction data by visualizing feature distributions and statistics using Seaborn
 
 ### Autograf Carwash  
 Fort Smith, AR  
 **Detail Specialist**  
 December 2016 – August 2021  
 
-- Managed sales and requests for 60+ daily clients to ensure satisfaction
-- Provided vehicle cleaning services including interior vacuuming, power washing, and hand drying
+- Interacted with 60+ daily clients to manage sales and requests to ensure customer satisfaction
+- Performed vehicle cleaning services such as interior vacuuming, exterior power washing, and hand drying
