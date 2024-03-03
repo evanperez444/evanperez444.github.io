@@ -1,37 +1,68 @@
-# Evan Alejandro Perez
----
+# Evan Perez
+[evanperez444@gmail.com](mailto:evanperez444@gmail.com) | (479) 285-0365 | [github.com/evanperez444](https://github.com/evanperez444)
 
-## Education
+## EDUCATION
+**The City College of New York – Grove School of Engineering**  
+New York, NY  
+B.S. in Computer Science, Minor in Mathematics  
+GPA: 3.3  
+Expected May 2025  
 
-### Computer Science Student at The City College of New York
+**Honors:**  
+- NASA NYSG Recipient  
+- Grove Data Science Scholar  
+- CUNY Futures in Finance Fellow  
+- CUNY Tech Prep Data Science Fellow  
+- CUNY Tech Prep Student Ambassador  
 
-GPA: 3.3 / 4.0
+**Coursework:**  
+Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theory
 
-## Skills
----
-### Programming: Python, C++, Java, HTML
-### Technologies: Git/Github, Visual Studio Code, PyCharm, MATLAB, YOLO framework, Google Colab, Jupyter Notebooks, QGIS, Microsoft Office
+## SKILLS
+**Programming:** Python, SQL, C++, R, Java, JavaScript, HTML, CSS, Scheme, MATLAB  
+**Technologies:** Git/GitLab, VS Code, PyCharm, Google Colab, Jupyter, QGIS, Microsoft Excel  
+**Libraries:** Pandas, Matplotlib, Scikit-Learn, Tensorflow, Pytorch, LangChain, OpenAI, NLTK  
 
-## Technical Experience
----
-### IQSpatial / Feature Extraction Intern / June 2023 - Present / New York, NY
+## TECHNICAL EXPERIENCE
+### IQSpatial  
+New York, NY  
+**Python Machine Learning Engineer Intern**  
+June 2023 – Present  
 
-- Developed a feature extraction pipeline using the YOLO framework and Python which allowed users to preprocess 1000+ commercial satellite images, train and test a custom machine learning model on annotated datasets, and detect objects in new imagery while recording object names and geospatial coordinates into a CSV file. Achieved 84% prediction accuracy with a custom model that was built using the pipeline.
-- Worked closely with a teammate to ensure that the model pipeline’s CSV output was compatible with the teammate's API pipeline so that the combined workflow solution could be deployed for commercial use.
+- Developed a RAG-based LLM application to extract and organize financial data from text documents, reducing research time by 85%
+- Built an LLM output validation system using NLTK and integrated topic modeling and keyword extraction
+- Engineered a YOLO-driven machine-learning pipeline for object detection in satellite imagery, achieving 84% accuracy
+- Created an object detection website with CSS/JavaScript frontend and Python backend integrating YOLO framework
 
-### Ursa Space Systems / Data Science Intern / May 2022 - August 2022 / Ithaca, NY
+### Ursa Space Systems  
+Ithaca, NY  
+**NASA New York Space Grant - Data Science Intern**  
+May 2022 – August 2022  
 
-- Reduced geospatial data preprocessing time by 90% by developing a command line prompt tool using Python that enabled the automated mass conversion of 1000+ CSV files into the appropriate GEOJSON format. Verified the tool’s functionality in QGIS by overlaying the output with SAR satellite imagery.
-- Procured machine learning model performance insights by retraining a classification model over newly converted and existing data. Discovered that K-Fold Cross Validation could improve accuracy to 70% by iterating over the same data set, but “folding” parts of it into testing and training sets to ensure data variety.
+- Reduced geospatial data preprocessing time by 90% with a Python command line tool for CSV to GEOJSON conversion
+- Procured insights on machine learning model performance and discovered K-Fold Cross Validation improvements
 
-### Gamco Corporation / Computer Systems Analyst / January 2022 - April 2022 / Queens, NY
+### Gamco Corporation  
+Queens, NY  
+**Computer Systems Analyst**  
+January 2022 – April 2022  
 
-- Reduced cycle inventory count from 2 months to 2 weeks by developing a digital inventory counting solution using Google Sheets and built-in functions while working closely with the inventory manager and shopfloor workers to understand and tailor the solution to their needs. Replaced the manual counting method with the digital solution and deployed it during a cycle count to ensure functionality.
-- Contributed to the procurement of a $250,000 Enterprise Resource Planning system by conducting screenings with software engineers from numerous firms, evaluating software functionality and cost benefits based on Gamco’s departmental requirements and challenges.
+- Reduced inventory counting time from 2 months to 2 weeks with an Excel-based digital solution
+- Screened software engineers and sales representatives for $250,000 ERP system purchase
 
-## Supporting Experience
----
-### Autograf Carwash / Detail Specialist / December 2016 - August 2021 / Fort Smith, AR
+## SUPPORTING EXPERIENCE
+### CUNY Tech Prep  
+New York, NY  
+**Data Science Fellow - Fraudulent Credit Card Transaction Detection**  
+July 2023 – Present  
 
-- Implemented new procedures for managing client purchases which led to optimized service by reducing the customer wait time by 10% and decreasing environmental impact caused by water usage.
-- Performed vehicle cleaning procedures with 60+ daily vehicles such as interior vacuuming, exterior power washing and scrubbing, and exterior hand drying to ensure satisfaction and increase sales.
+- Led a team to develop a fraudulent credit card transaction model achieving 97% accuracy
+- Preprocessed and configured a dataset of 6M+ samples and analyzed financial transaction data
+
+### Autograf Carwash  
+Fort Smith, AR  
+**Detail Specialist**  
+December 2016 – August 2021  
+
+- Managed sales and requests for 60+ daily clients to ensure satisfaction
+- Provided vehicle cleaning services including interior vacuuming, power washing, and hand drying
