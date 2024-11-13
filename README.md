@@ -6,7 +6,7 @@
 New York, NY  
 B.S. in Computer Science, Minor in Mathematics  
 GPA: 3.4 
-Expected May 2025  
+Expected 2025  
 
 **Honors:**  
 - NASA NYSG Recipient  
