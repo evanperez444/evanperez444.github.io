@@ -24,7 +24,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **Libraries:** Pandas, Matplotlib, Scikit-Learn, Tensorflow, Pytorch, LangChain, OpenAI, NLTK  
 
 ## TECHNICAL EXPERIENCE
-### Harvard University – Center for Astrophysics
+### Center for Astrophysics | Harvard & Smithsonian
 **Cambridge, MA**  
 **NSF REU Research Intern**  
 **June 2024 - Present**  
