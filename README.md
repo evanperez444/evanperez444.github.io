@@ -63,16 +63,14 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 
 ## SUPPORTING EXPERIENCE
 ### CUNY Tech Prep  
-New York, NY  
 **Data Science Fellow - Fraudulent Credit Card Transaction Detection**  
-July 2023 – Present  
+July 2023 – May 2024  
 
 - Collaborated in a team of 3 in developing a fraudulent credit card transaction model and compared algorithms such as logistic regression and random forest. Achieved 97% detection accuracy with a neural network model
 - Preprocessed and configured a dataset of 6 million+ samples using Pandas, SMOTE, and MinMaxScaler
 - Analyzed financial transaction data by visualizing feature distributions and statistics using Seaborn
 
 ### Autograf Carwash  
-Fort Smith, AR  
 **Detail Specialist**  
 December 2016 – August 2021  
 
