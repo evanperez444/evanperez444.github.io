@@ -32,7 +32,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 
 ### IQSpatial
 **New York, NY**  
-**Data Science Consultant**  
+**Data Science Consultant Intern**  
 **January 2024 – Present**  
 - Supervising two teams of 6 interns total in developing AI-based software solutions for a large client
 - Interviewed 10 AI/Software Engineer intern applicants to enhance and scale current consulting projects
