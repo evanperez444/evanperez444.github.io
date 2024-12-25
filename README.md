@@ -36,7 +36,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **January 2024 – Present**  
 - Supervising two teams of 6 interns total in developing AI-based software solutions for a large client
 - Interviewed 10 AI/Software Engineer intern applicants to enhance and scale current consulting projects
-- Developed a RAG-based LLM application to extract and transform data from 500+ documents using LangChain, OpenAI, and CSV Python libraries to reduce business intelligence research time by 85%
+- Developed a RAG-based LLM application to extract and transform data from 500+ documents using LangChain, OpenAI, and CSV Python libraries to reduce business intelligence research time 
 - Built an LLM output validation system using the NLTK library for keyword extraction and topic modeling
 
 **Python Machine Learning Engineer Intern**  
