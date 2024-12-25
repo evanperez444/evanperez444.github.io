@@ -51,7 +51,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **Data Science Intern**  
 **May 2022 – August 2022**  
 - Reduced geospatial data preprocessing time by 90% by developing a Python command line prompt tool that automated the conversion of 1000+ AWS-sourced CSV files into formatted GEOJSON files
-- Procured machine learning model performance insights by retraining a classification model over newly converted and existing data within EC2, discovered that K-Fold Cross Validation could improve accuracy
+- Procured machine learning model performance insights by retraining a classification model over newly converted and existing data within EC2
 
 ### Gamco Corporation
 **Queens, NY**  
