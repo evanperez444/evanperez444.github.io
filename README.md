@@ -66,8 +66,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **Data Science Fellow - Fraudulent Credit Card Transaction Detection**  
 July 2023 – May 2024  
 
-- Collaborated in a team of 3 in developing a fraudulent credit card transaction model and compared algorithms such as logistic regression and random forest. Achieved 97% detection accuracy with a neural network model
-- Preprocessed and configured a dataset of 6 million+ samples using Pandas, SMOTE, and MinMaxScaler
+- Collaborated in a team of 3 in developing a fraudulent credit card transaction model and compared algorithms such as logistic regression and random forest
 - Analyzed financial transaction data by visualizing feature distributions and statistics using Seaborn
 
 ### Autograf Carwash  
