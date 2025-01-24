@@ -5,7 +5,7 @@
 **The City College of New York – Grove School of Engineering**  
 New York, NY  
 B.S. in Computer Science, Minor in Mathematics  
-GPA: 3.4 
+GPA: 3.5
 Expected 2025  
 
 **Honors:**  
@@ -28,7 +28,7 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **Cambridge, MA**  
 **NSF REU Research Intern**  
 **June 2024 - Present**  
-- Conducting data exploration research to detect and characterize quasi-periodic pulsations in solar x-ray flares by performing data analysis and applying statistical methods using Python and IDL
+- Conducting data exploration research to detect and characterize quasi-periodic pulsations in solar x-ray flares by performing data analysis and applying statistical methods using Python 
 
 ### IQSpatial
 **New York, NY**  
@@ -50,28 +50,14 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 **Ithaca, NY**  
 **Data Science Intern**  
 **May 2022 – August 2022**  
-- Reduced geospatial data preprocessing time by 90% by developing a Python command line prompt tool that automated the conversion of 1000+ AWS-sourced CSV files into formatted GEOJSON files
+- Reduced geospatial data preprocessing time by by developing a Python command line prompt tool that automated the conversion of 1000+ AWS-sourced CSV files into formatted GEOJSON files
 - Procured machine learning model performance insights by retraining a classification model over newly converted and existing data within EC2
 
 ### Gamco Corporation
 **Queens, NY**  
 **Computer Systems Analyst**  
 **January 2022 – April 2022**  
-- Reduced inventory counting time by 80% by collaborating with inventory managers and shop floor workers to design and develop an Excel-based counting solution for mobile tablet use in less than 1 month
+- Reduced inventory counting time by by collaborating with inventory managers and shop floor workers to design and develop an Google sheets counting solution for mobile tablet use in less than 1 month
 - Screened software engineers from 15 different ERP companies for a $250,000 ERP system purchase
 
 
-## SUPPORTING EXPERIENCE
-### CUNY Tech Prep  
-**Data Science Fellow - Fraudulent Credit Card Transaction Detection**  
-July 2023 – May 2024  
-
-- Collaborated in a team of 3 in developing a fraudulent credit card transaction model and compared algorithms such as logistic regression and random forest
-- Analyzed financial transaction data by visualizing feature distributions and statistics using Seaborn
-
-### Autograf Carwash  
-**Detail Specialist**  
-December 2016 – August 2021  
-
-- Interacted with 60+ daily clients to manage sales and requests to ensure customer satisfaction
-- Performed vehicle cleaning services such as interior vacuuming, exterior power washing, and hand drying
