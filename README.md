@@ -26,14 +26,14 @@ Algorithms, Data Structures, Database Systems, Linear Algebra, Probability Theor
 ## TECHNICAL EXPERIENCE
 ### Center for Astrophysics | Harvard & Smithsonian
 **Cambridge, MA**  
-**NSF REU Research Intern**  
+**Python Research Assistant**  
 **June 2024 - Present**  
 - Conducting data exploration research to detect and characterize quasi-periodic pulsations in solar x-ray flares by performing data analysis and applying statistical methods using Python 
 
 ### IQSpatial
 **New York, NY**  
 **Data Science Consultant Intern**  
-**January 2024 – Present**  
+**January 2024 – June 2024**  
 - Supervising two teams of 6 interns total in developing AI-based software solutions for a large client
 - Interviewed 10 AI/Software Engineer intern applicants to enhance and scale current consulting projects
 - Developed a RAG-based LLM application to extract and transform data from 500+ documents using LangChain, OpenAI, and CSV Python libraries to reduce business intelligence research time 
