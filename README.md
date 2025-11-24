@@ -5,7 +5,7 @@
 **The City College of New York – Grove School of Engineering**  
 New York, NY  
 B.S. in Computer Science, Minor in Mathematics  
-GPA: 3.5
+GPA: 3.47
 Expected 2025  
 
 **Honors:**  
